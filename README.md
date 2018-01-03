@@ -41,7 +41,7 @@ cd spring-boot-kafka-example
 mvn clean install
 ```
 ```
-mvn boot:run
+mvn spring-boot:run
 ```
 
 
